@@ -1,19 +1,19 @@
 # cadastro-Devs
 
-<!-- Cabeçalho -->
+Cabeçalho
 
-<!-- Formulário de cadastro -->
+Formulário de cadastro
 
-<!-- Grupo de campos de nome e sobrenome -->
+Grupo de campos de nome e sobrenome
 
-<!-- Campo de e-mail -->
+Campo de e-mail
 
-<!-- Campo de escolha de desenvolvimento -->
+Campo de escolha de desenvolvimento
 
-<!-- Campo de escolha de senioridade -->
+Campo de escolha de senioridade
 
-<!-- Campo de escolha de tecnologias -->
+Campo de escolha de tecnologias
 
-<!-- Campo de experiência -->
+Campo de experiência
 
-<!-- Botão de envio -->
+Botão de envio
